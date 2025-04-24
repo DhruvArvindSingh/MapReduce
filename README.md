@@ -17,3 +17,4 @@ C++ Implementation of Map Reduce Framework.
   Reducing to final result after compilation of mapped solution.
   
   
+##1 file includes the files involved in the process with FinalOutput.txt containing the final output
